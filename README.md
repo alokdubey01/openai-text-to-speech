@@ -37,7 +37,7 @@ python openaiProject.py
 
 ## 📝 License
 ***
-[MIT](https://github.com/alokdubey01/WhatsApp-Wisher/blob/main/LICENSE)
+[MIT](https://github.com/alokdubey01/openai-text-to-speech/blob/main/LICENSE)
 © 2022 GitHub, Inc.
 Terms
 Privacy
